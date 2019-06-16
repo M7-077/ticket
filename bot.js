@@ -8,8 +8,8 @@ function clean(text) {
         return text;
 }
 
-const prefix = "0";
-const token = "NTgyMTM4MjI5MDYzNjgwMDAw.XOpcmg.lOxA-HBVfBzsKluVY62dea7DWYI";
+const prefix = "د";
+const token = "NTg5OTE4OTE5NzYyOTAzMDg1.XQatcA.60gB-YDNCRdyZNYF5cAZkSEnKDY";
 
 client.on('ready', () => {
    console.log(`----------------`);
